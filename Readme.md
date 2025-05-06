@@ -35,12 +35,19 @@ Este proyecto permite autenticar usuarios usando Google OAuth 2.0 y registrar su
 ## 🧩 Estructura del proyecto auth-google-sso (Backend)
 
 auth-google-sso/
+
 ├── models/
+
 │   ├── User.js
+
 ├── .env
+
 ├── db.js
+
 ├── index.js
+
 ├── package.json
+
 └── README.md
 
 ---
